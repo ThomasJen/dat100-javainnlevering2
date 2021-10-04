@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 class TabellerEnhetsTester {
-
+	
 	private static int[] tabell1 = { 1, 4, 6 };
 	private static int[] tabell2 = { 1 };
 	private static int[] tabell3 = {};
